@@ -15,9 +15,7 @@ This project contains a complete **Verilog implementation** of the DSP48A1 slice
 8. [Synthesis & Implementation](#synthesis--implementation)
 9. [Constraint Files](#constraint-files)
 10. [Deliverables](#deliverables)
-11. [Directory Structure](#directory-structure)
-12. [References](#references)
-
+    
 ---
 
 ## Project Overview
